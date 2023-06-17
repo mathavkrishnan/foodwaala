@@ -1,4 +1,4 @@
-# foodwala
+# Foodwala
 
 ## Api documentation
 
